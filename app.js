@@ -1,3 +1,4 @@
+//este programa sirve para multiplicar
 const { createFile , listarTabla } = require('./Multiplicar/multiplicacion');
 
 const argumentos = require('yargs')
